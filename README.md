@@ -1,6 +1,10 @@
-# 🔍 Google Dork Generator
+<div align="center">
+  <img src="images/logo.png" alt="Google Dork Generator Logo" width="128" height="128">
 
-A powerful and user-friendly Streamlit web application for generating Google Dorks (advanced search queries) for OSINT (Open Source Intelligence) investigations.
+  # 🔍 Google Dork Generator
+  
+  A powerful and user-friendly Streamlit web application for generating Google Dorks (advanced search queries) for OSINT (Open Source Intelligence) investigations.
+</div>
 
 ## ✨ Features
 
