@@ -121,11 +121,11 @@ This tool is designed for legitimate OSINT investigations, security research, an
 
 Contributions are welcome! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines on how to contribute to this project.
 
-## � Security
+## 🔒 Security
 
 Security vulnerabilities should be reported responsibly. Please see our [SECURITY.md](SECURITY.md) file for detailed instructions on how to report security issues.
 
-## �📄 License
+## 📄 License
 
 This project is open source. Please use responsibly and ethically.
 
